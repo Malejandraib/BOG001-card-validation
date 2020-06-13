@@ -33,14 +33,17 @@ const validator = {
           sum += d
       } 
       //si el resultado da 0, entonces la tarjeta es valida+
+     
       return sum % 10 === 0
+
   },
 
   maskify:
   function maskify(creditCardNumber){
+    let len = creditCardNumber.length
     let lastDig=creditCardNumber.slice(-4)
-    let masked = lastDig.padStart(16,"#");
-    alert(masked);
+    let masked = lastDig.padStart(len,"#");
+    
     return masked;
    }
 };

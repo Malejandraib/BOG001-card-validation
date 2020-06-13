@@ -25,6 +25,6 @@ function onSubmit(event) {
  */
   var numberInput = document.querySelector('#tc-number').value;
   
-  validator.maskify(numberInput);
-  alert(validator.isValid(numberInput));
+ alert("Here is the last four number of your card number "+ validator.maskify(numberInput));
+  alert("This card number seems to be "+ validator.isValid(numberInput));
 } 
