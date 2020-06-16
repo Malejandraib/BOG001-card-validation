@@ -18,6 +18,9 @@ La interfaz permite al usuario:
 *+Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
 *-No debe poder ingresar un campo vacío.
 
+<img src="src\Images\sketch-image.png" alt="prototipoFinal" />
+*Prototipo final deseado, en InVision:*
+
 ## 3 Análisis UX 
 
 *Quiénes son los usuarios y los objetivos en relación con el producto.*
@@ -30,15 +33,14 @@ El cliente son las tiendas de barrio que no han establecido pagos virtuales.
 
 En esta etapa se basa en la interfaz intuitiva y llamativa para el usuario, hicimos 1 prototipo en Figma, lo cual resulto complicado estructurarlo de la mejor manera, así decidimos probar InVision, tomamos un template y nos basamos en él para hacer nuestro prototipo, luego de pensar mejor la interfaz:
 
-<img src="src\Images\Prototipo1.png" alt="prototipo1"/>
+<img src="src\Images\Prototipo1.png" alt="prototipo1" width="400"/>
 *Prototipo 1, en Figma:*
 
-<img src="src\Images\sketch-image.png" alt="prototipoFinal"/>
-*Prototipo final, en InVision:*
+
 
 *Prototipos en papel*
-(<img src="src\Images\Papel1.jpg" alt="papel1"/>)
-(<img src="src\Images\Papel2.jpg" alt="papel2"/>)
+(<img src="src\Images\Papel1.jpg" alt="papel1" width="400"/>)
+(<img src="src\Images\Papel2.jpg" alt="papel2" width="400"/>)
 
 Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos colores y tipografía a usar.
 
