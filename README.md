@@ -1,6 +1,6 @@
 ## Kwik-E-mart
 
-Nuestro proyecto es un validador de tarjetas que facilitará a los usuarios hacer compras de mercado en tiendas de barrio, teniendo en cuenta la situación actual, evitando que salgan a la calle a exponerse. 
+Nuestro proyecto es un validador de tarjetas que facilitará a los usuarios hacer compras de mercado en tiendas de barrio, teniendo en cuenta la situación actual, evitando que salir y exponerse. 
 
 *Quiénes son los usuarios y los objetivos en relación con el producto.*
 
@@ -12,15 +12,16 @@ El cliente son las tiendas de barrio que no han establecido pagos virtuales.
 
 En esta etapa comenzamos a pensar en una interfaz intuitiva y llamativa para el usuario, hicimos 1 prototipo en Figma, lo cual resulto complicado estructurarlo de la mejor manera, así decidimos probar InVision, tomamos un template y nos basamos en él para hacer nuestro prototipo, luego de pensar mejor la interfaz:
 
+
 *Prototipo 1, en Figma:*
-![Prototype1](<img src="images/Prototipo1.jpg"/>) 
+![Prototype1](<img src="./Images/Prototipo1.jpg"/>) 
 *Prototipo final, en InVision:*
-![FinalPrototype](<img src="images/sketch-image.png"/>)
+![FinalPrototype](<img src="./Images/sketch-image.png"/>)
 
 *Prototipos en papel*
-(<img src="images/Papel1.jpg"/>)
-(<img src="images/Papel2.jpg"/>)
-
+(<img src="./Images/Papel1.jpg"/>)
+(<img src="./Images/Papel2.jpg"/>)
+<img src="Images/logo-image.png"
 Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos colores y tipografía a usar.
 
 Inicialmente pensamos en tres colores,e hicimos el logo basándonos en ellos:
@@ -33,3 +34,5 @@ La *tipografía* la escogimos pensando en que fuera seria, elegante y legible.
  Fuente: Lato, regular 400 y Bold 700,
 
 En el caso del nombre, basándonos en el enfoque de nuestra pagina web, pensamos en un nombre que fuera acorde a la temática de la pagina que es de supermercado, investigamos, y llegamos a la conclusión de que kwik-E-mart  es una referencia a tiendas de mercado de barrio de la serie famosa Los Simpsons, y le agregamos el icono del carrito de compras para darle un poco mas de significado al logo.
+
+#Objetivos de aprendizaje 
