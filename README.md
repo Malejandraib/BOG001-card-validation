@@ -13,13 +13,13 @@ Busca facilitar a los usuarios el hacer compras de mercado, en tiendas de barrio
 ## 2 Interfaz de usuario (UI)
 La interfaz permite al usuario:
 
-*+Insertar el número que queremos validar.
-*+Ver el resultado si es válido o no.
-*+Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
-*-No debe poder ingresar un campo vacío.
+*Insertar el número que queremos validar.
+*Ver el resultado si es válido o no.
+*Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
+*No debe poder ingresar un campo vacío.
 
-<img src="src\Images\sketch-image.png" alt="prototipoFinal" />
-*Prototipo final deseado, en InVision:*
+<img src="src\Images\producto-final.png" alt="productoFinal" />
+*Producto final*
 
 ## 3 Análisis UX 
 
@@ -33,21 +33,22 @@ El cliente son las tiendas de barrio que no han establecido pagos virtuales.
 
 En esta etapa se basa en la interfaz intuitiva y llamativa para el usuario, hicimos 1 prototipo en Figma, lo cual resulto complicado estructurarlo de la mejor manera, así decidimos probar InVision, tomamos un template y nos basamos en él para hacer nuestro prototipo, luego de pensar mejor la interfaz:
 
+<img src="src\Images\sketch-image.png" alt="prototipoFinal" />
+*Prototipo final deseado, en InVision:*
+
 <img src="src\Images\Prototipo1.png" alt="prototipo1" width="400"/>
 *Prototipo 1, en Figma:*
 
-
-
 *Prototipos en papel*
 (<img src="src\Images\Papel1.jpg" alt="papel1" width="400"/>)
-(<img src="src\Images\Papel2.jpg" alt="papel2" width="400"/>)
+(<img src="src\Images\Papel2.jpg" alt="papel2" width="400" length="400"/>)
 
 Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos colores y tipografía a usar.
 
 Inicialmente pensamos en tres colores, se realizó el logo basándonos en ellos:
 #F44E3F - #0F7173 - #D6D1B1 
  
- ![logo final](<img src="src\Images\logo-image.png" alt="logo_image"/>) 
+<img src="src\Images\logo-image.png" alt="logo_image"/> 
 
 La *tipografía* la escogimos pensando en que fuera seria, elegante y legible.
  Fuente: Lato, regular 400 y Bold 700,
