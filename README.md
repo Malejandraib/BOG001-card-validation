@@ -30,7 +30,7 @@ El cliente son las tiendas de barrio que no han establecido pagos virtuales.
 
 En esta etapa se basa en la interfaz intuitiva y llamativa para el usuario, hicimos 1 prototipo en Figma, lo cual resulto complicado estructurarlo de la mejor manera, así decidimos probar InVision, tomamos un template y nos basamos en él para hacer nuestro prototipo, luego de pensar mejor la interfaz:
 
-<img src="./Images/Prototipo1.jpg" alt="prototipo1"/>
+<img src="./Images/Prototipo1.png" alt="prototipo1"/>
 *Prototipo 1, en Figma:*
 
 <img src="./Images/sketch-image.png" alt="prototipoFinal"/>
