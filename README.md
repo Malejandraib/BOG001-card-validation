@@ -6,15 +6,17 @@
 4. [Objetivos de aprendizaje](#4-Objetivos-de-aprendizaje)
 
 ## 1. Preambulo del proyecto 
-Nuestro proyecto es un validador de tarjetas que facilitará a los usuarios hacer compras de mercado en tiendas de barrio, teniendo en cuenta la situación actual, evitando que salir y exponerse. 
+Este proyecto es un validador de tarjetas, su finalidad principal se basa en validar tarjetas para compras entre verdaderas y falsas, basado en el algoritmo de Luhn y una función de enmascarado que se encargue de solo mostrar los ultimos valores de la tarjeta ingresada. 
+Busca facilitar a los usuarios el hacer compras de mercado, en tiendas de barrio, teniendo en cuenta la situación actual, evitando salir y exponerse. 
+
 
 ## 2 Interfaz de usuario (UI)
 La interfaz permite al usuario:
 
-+Insertar el número que queremos validar.
-+Ver el resultado si es válido o no.
-+Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
--No debe poder ingresar un campo vacío.
+*+Insertar el número que queremos validar.
+*+Ver el resultado si es válido o no.
+*+Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
+*-No debe poder ingresar un campo vacío.
 
 ## 3 Análisis UX 
 
@@ -26,13 +28,13 @@ El cliente son las tiendas de barrio que no han establecido pagos virtuales.
 
 *Proceso de prototipado y diseño*
 
-En esta etapa comenzamos a pensar en una interfaz intuitiva y llamativa para el usuario, hicimos 1 prototipo en Figma, lo cual resulto complicado estructurarlo de la mejor manera, así decidimos probar InVision, tomamos un template y nos basamos en él para hacer nuestro prototipo, luego de pensar mejor la interfaz:
+En esta etapa se basa en la interfaz intuitiva y llamativa para el usuario, hicimos 1 prototipo en Figma, lo cual resulto complicado estructurarlo de la mejor manera, así decidimos probar InVision, tomamos un template y nos basamos en él para hacer nuestro prototipo, luego de pensar mejor la interfaz:
 
-
+<img src="./Images/Prototipo1.jpg" alt="prototipo1"/>
 *Prototipo 1, en Figma:*
-![Prototype1](<img src="./Images/Prototipo1.jpg"/>) 
+
+<img src="./Images/sketch-image.png" alt="prototipoFinal"/>
 *Prototipo final, en InVision:*
-![FinalPrototype](<img src="./Images/sketch-image.png"/>)
 
 *Prototipos en papel*
 (<img src="./Images/Papel1.jpg" alt="papel1"/>)
