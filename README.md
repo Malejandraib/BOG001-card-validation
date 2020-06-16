@@ -26,9 +26,9 @@ Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos
 
 Inicialmente pensamos en tres colores,e hicimos el logo basándonos en ellos:
 #F44E3F - #0F7173 - #D6D1B1 
-![enter image description here](<img src="Images/logo1.jpg"/>) logo1
+![enter image description here](<img src="C:\Users\ASUS\Desktop\Laboratoria\BOG001-card-validation\src\Images\Logo1.jpg"/>) logo1
 Luego nos dimos cuenta que el color  #D6D1B1  no encajaba con la interfaz y decidimos dejarlo blanco.
- <img src="Images/logo-image.png" alt="logo_image"/> logo final
+ (<img src="./Images/logo-image.png" alt="logo_image"/>) logo final
 
 La *tipografía* la escogimos pensando en que fuera seria, elegante y legible.
  Fuente: Lato, regular 400 y Bold 700,
