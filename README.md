@@ -33,20 +33,19 @@ En esta etapa se basa en la interfaz intuitiva y llamativa para el usuario, hici
 <img src="src\Images\Prototipo1.png" alt="prototipo1"/>
 *Prototipo 1, en Figma:*
 
-<img src="./Images/sketch-image.png" alt="prototipoFinal"/>
+<img src="src\Images\sketch-image.png" alt="prototipoFinal"/>
 *Prototipo final, en InVision:*
 
 *Prototipos en papel*
-(<img src="./Images/Papel1.jpg" alt="papel1"/>)
-(<img src="./Images/Papel2.jpg" alt="papel2"/>)
+(<img src="src\Images\Papel1.jpg" alt="papel1"/>)
+(<img src="src\Images\Papel2.jpg" alt="papel2"/>)
 
 Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos colores y tipografía a usar.
 
-Inicialmente pensamos en tres colores,e hicimos el logo basándonos en ellos:
+Inicialmente pensamos en tres colores, se realizó el logo basándonos en ellos:
 #F44E3F - #0F7173 - #D6D1B1 
-![primer logo](<img src="./Images/Logo1.jpg"/>) 
-Luego nos dimos cuenta que el color  #D6D1B1  no encajaba con la interfaz y decidimos dejarlo blanco.
- ![logo final](<img src="./Images/logo-image.png" alt="logo_image"/>) 
+ 
+ ![logo final](<img src="src\Images\logo-image.png" alt="logo_image"/>) 
 
 La *tipografía* la escogimos pensando en que fuera seria, elegante y legible.
  Fuente: Lato, regular 400 y Bold 700,
