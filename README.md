@@ -1,6 +1,22 @@
 ## Kwik-E-mart
+### Tabla de contenidos:
+1. [Preambulo del proyecto](#1-preambulo-del-proyecto)
+2. [Interfaz de usuario (UI)](#2-Interfaz-de-usuario-(UI))
+3. [Análisis UX](#3-Análisis-UX)
+4. [Objetivos de aprendizaje](#4-Objetivos-de-aprendizaje)
 
+## 1. Preambulo del proyecto 
 Nuestro proyecto es un validador de tarjetas que facilitará a los usuarios hacer compras de mercado en tiendas de barrio, teniendo en cuenta la situación actual, evitando que salir y exponerse. 
+
+## 2 Interfaz de usuario (UI)
+La interfaz permite al usuario:
+
++Insertar el número que queremos validar.
++Ver el resultado si es válido o no.
++Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
+-No debe poder ingresar un campo vacío.
+
+## 3 Análisis UX 
 
 *Quiénes son los usuarios y los objetivos en relación con el producto.*
 
@@ -19,20 +35,48 @@ En esta etapa comenzamos a pensar en una interfaz intuitiva y llamativa para el 
 ![FinalPrototype](<img src="./Images/sketch-image.png"/>)
 
 *Prototipos en papel*
-(<img src="./Images/Papel1.jpg"/>)
-(<img src="./Images/Papel2.jpg"/>)
-<img src="Images/logo-image.png"
+(<img src="./Images/Papel1.jpg" alt="papel1"/>)
+(<img src="./Images/Papel2.jpg" alt="papel2"/>)
+
 Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos colores y tipografía a usar.
 
 Inicialmente pensamos en tres colores,e hicimos el logo basándonos en ellos:
 #F44E3F - #0F7173 - #D6D1B1 
-![enter image description here](<img src="C:\Users\ASUS\Desktop\Laboratoria\BOG001-card-validation\src\Images\Logo1.jpg"/>) logo1
+![primer logo](<img src="./Images/Logo1.jpg"/>) 
 Luego nos dimos cuenta que el color  #D6D1B1  no encajaba con la interfaz y decidimos dejarlo blanco.
- (<img src="./Images/logo-image.png" alt="logo_image"/>) logo final
+ ![logo final](<img src="./Images/logo-image.png" alt="logo_image"/>) 
 
 La *tipografía* la escogimos pensando en que fuera seria, elegante y legible.
  Fuente: Lato, regular 400 y Bold 700,
 
-En el caso del nombre, basándonos en el enfoque de nuestra pagina web, pensamos en un nombre que fuera acorde a la temática de la pagina que es de supermercado, investigamos, y llegamos a la conclusión de que kwik-E-mart  es una referencia a tiendas de mercado de barrio de la serie famosa Los Simpsons, y le agregamos el icono del carrito de compras para darle un poco mas de significado al logo.
+En el caso del nombre, basándonos en el enfoque de nuestra pagina web, pensamos en un nombre que fuera acorde a la temática de la pagina que es de supermercado, investigamos, y llegamos a la conclusión de que kwik-E-mart  es una referencia a tiendas de mercado de barrio de la serie de Los Simpsons, y le agregamos el icono del carrito de compras para darle más significado al logo.
 
-#Objetivos de aprendizaje 
+## 4. Objetivos de aprendizaje 
+UX
+ Diseñar la aplicación pensando y entendiendo al usuario
+ Crear prototipos para obtener feedback e iterar
+ Aplicar los principios de diseño visual
+HTML y CSS
+ Uso correcto de HTML semántico
+ Uso de selectores de CSS
+ Construir tu aplicación respetando el diseño realizado (maquetación).
+DOM
+ Uso de selectores de nodos del DOM
+ Manejo de eventos del DOM
+ Manipulación dinámica del DOM
+Javascript
+ Manipulación de strings
+ Uso de condicionales
+ Uso de bucles
+ Uso de funciones
+ Datos atómicos y estructurados
+ Utilizar ES Modules (import | export).
+Testing
+ Testeo de tus funciones
+Git y GitHub
+ Comandos de git (add | commit | pull | status | push).
+ Manejo de repositorios de GitHub (clone | fork | gh-pages).
+Buenas prácticas de desarrollo
+ Organizar y dividir el código en módulos (Modularización).
+ Uso de identificadores descriptivos (Nomenclatura | Semántica).
+ Uso de linter para seguir buenas prácticas (ESLINT).
