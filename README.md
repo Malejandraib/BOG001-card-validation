@@ -28,7 +28,7 @@ Inicialmente pensamos en tres colores,e hicimos el logo basándonos en ellos:
 #F44E3F - #0F7173 - #D6D1B1 
 ![enter image description here](<img src="Images/logo1.jpg"/>) logo1
 Luego nos dimos cuenta que el color  #D6D1B1  no encajaba con la interfaz y decidimos dejarlo blanco.
-![enter image description here](<img src="Images/logo-image.png"/>)  logo final
+ <img src="Images/logo-image.png" alt="logo_image"/> logo final
 
 La *tipografía* la escogimos pensando en que fuera seria, elegante y legible.
  Fuente: Lato, regular 400 y Bold 700,
