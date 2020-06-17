@@ -40,9 +40,9 @@ En esta etapa se basa en la interfaz intuitiva y llamativa para el usuario, hici
 *Prototipo 1, en Figma:*
 
 *Prototipos en papel*
-<img src="src\Images\Papel1.jpg" alt="papel1" width="400"/>
-<img src="src\Images\Papel2.jpg" alt="papel2" width="400" heigth="400"/>
 
+Los prototipos en papel recibieron feedback de compañeras y coaches que compartieron ideas sobre el contexto que deberia brindar la página y que deberia ser intuitiva para los usuarios que la llegaran a usar. 
+También se discutio sobre los valores que debia recoger y solicitar para la validación de tarjeta. 
 Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos colores y tipografía a usar.
 
 Inicialmente pensamos en tres colores, se realizó el logo basándonos en ellos:
@@ -57,30 +57,30 @@ En el caso del nombre, basándonos en el enfoque de nuestra pagina web, pensamos
 
 ## 4. Objetivos de aprendizaje 
 ## UX
- * (x) Diseñar la aplicación pensando y entendiendo al usuario
- * (x) Crear prototipos para obtener feedback e iterar
- * (X) Aplicar los principios de diseño visual
+ * [x] Diseñar la aplicación pensando y entendiendo al usuario
+ * [x] Crear prototipos para obtener feedback e iterar
+ * [x] Aplicar los principios de diseño visual
 ## HTML y CSS
- * Uso correcto de HTML semántico
- * Uso de selectores de CSS
- * Construir tu aplicación respetando el diseño realizado (maquetación).
+ * [x] Uso correcto de HTML semántico
+ * [] Uso de selectores de CSS
+ * [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 ## DOM
- * Uso de selectores de nodos del DOM
- * Manejo de eventos del DOM
- * Manipulación dinámica del DOM
+ * [x] Uso de selectores de nodos del DOM
+ * [x] Manejo de eventos del DOM
+ * [] Manipulación dinámica del DOM
 ## Javascript
- * Manipulación de strings
- * Uso de condicionales
- * Uso de bucles
- * Uso de funciones
- * Datos atómicos y estructurados
- * Utilizar ES Modules (import | export).
+ * [x] Manipulación de strings
+ * [x] Uso de condicionales
+ * [x] Uso de bucles
+ * [x] Uso de funciones
+ * [x] Datos atómicos y estructurados
+ * [x] Utilizar ES Modules (import | export).
 ## Testing
- * Testeo de tus funciones
+ * [x] Testeo de tus funciones
 ## Git y GitHub
- * Comandos de git (add | commit | pull | status | push).
- * Manejo de repositorios de GitHub (clone | fork | gh-pages).
- * Buenas prácticas de desarrollo
- * Organizar y dividir el código en módulos (Modularización).
- * Uso de identificadores descriptivos (Nomenclatura | Semántica).
- * Uso de linter para seguir buenas prácticas (ESLINT).
+ * [x] Comandos de git (add | commit | pull | status | push).
+ * [] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+ * [] Buenas prácticas de desarrollo
+ * [x] Organizar y dividir el código en módulos (Modularización).
+ * [x] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+ * [] Uso de linter para seguir buenas prácticas (ESLINT).
