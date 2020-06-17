@@ -13,10 +13,10 @@ Busca facilitar a los usuarios el hacer compras de mercado, en tiendas de barrio
 ## 2 Interfaz de usuario (UI)
 La interfaz permite al usuario:
 
-*Insertar el número que queremos validar.
-*Ver el resultado si es válido o no.
-*Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
-*No debe poder ingresar un campo vacío.
+* +Insertar el número que queremos validar.
+* +Ver el resultado si es válido o no.
+* +Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
+* -No debe poder ingresar un campo vacío.
 
 <img src="src\Images\producto-final.png" alt="productoFinal" />
 *Producto final*
@@ -40,8 +40,8 @@ En esta etapa se basa en la interfaz intuitiva y llamativa para el usuario, hici
 *Prototipo 1, en Figma:*
 
 *Prototipos en papel*
-(<img src="src\Images\Papel1.jpg" alt="papel1" width="400"/>)
-(<img src="src\Images\Papel2.jpg" alt="papel2" width="400" length="400"/>)
+<img src="src\Images\Papel1.jpg" alt="papel1" width="400"/>
+<img src="src\Images\Papel2.jpg" alt="papel2" width="400" heigth="400"/>
 
 Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos colores y tipografía a usar.
 
@@ -56,31 +56,31 @@ La *tipografía* la escogimos pensando en que fuera seria, elegante y legible.
 En el caso del nombre, basándonos en el enfoque de nuestra pagina web, pensamos en un nombre que fuera acorde a la temática de la pagina que es de supermercado, investigamos, y llegamos a la conclusión de que kwik-E-mart  es una referencia a tiendas de mercado de barrio de la serie de Los Simpsons, y le agregamos el icono del carrito de compras para darle más significado al logo.
 
 ## 4. Objetivos de aprendizaje 
-UX
- Diseñar la aplicación pensando y entendiendo al usuario
- Crear prototipos para obtener feedback e iterar
- Aplicar los principios de diseño visual
-HTML y CSS
- Uso correcto de HTML semántico
- Uso de selectores de CSS
- Construir tu aplicación respetando el diseño realizado (maquetación).
-DOM
- Uso de selectores de nodos del DOM
- Manejo de eventos del DOM
- Manipulación dinámica del DOM
-Javascript
- Manipulación de strings
- Uso de condicionales
- Uso de bucles
- Uso de funciones
- Datos atómicos y estructurados
- Utilizar ES Modules (import | export).
-Testing
- Testeo de tus funciones
-Git y GitHub
- Comandos de git (add | commit | pull | status | push).
- Manejo de repositorios de GitHub (clone | fork | gh-pages).
-Buenas prácticas de desarrollo
- Organizar y dividir el código en módulos (Modularización).
- Uso de identificadores descriptivos (Nomenclatura | Semántica).
- Uso de linter para seguir buenas prácticas (ESLINT).
+## UX
+ * (x) Diseñar la aplicación pensando y entendiendo al usuario
+ * (x) Crear prototipos para obtener feedback e iterar
+ * (X) Aplicar los principios de diseño visual
+## HTML y CSS
+ * Uso correcto de HTML semántico
+ * Uso de selectores de CSS
+ * Construir tu aplicación respetando el diseño realizado (maquetación).
+## DOM
+ * Uso de selectores de nodos del DOM
+ * Manejo de eventos del DOM
+ * Manipulación dinámica del DOM
+## Javascript
+ * Manipulación de strings
+ * Uso de condicionales
+ * Uso de bucles
+ * Uso de funciones
+ * Datos atómicos y estructurados
+ * Utilizar ES Modules (import | export).
+## Testing
+ * Testeo de tus funciones
+## Git y GitHub
+ * Comandos de git (add | commit | pull | status | push).
+ * Manejo de repositorios de GitHub (clone | fork | gh-pages).
+ * Buenas prácticas de desarrollo
+ * Organizar y dividir el código en módulos (Modularización).
+ * Uso de identificadores descriptivos (Nomenclatura | Semántica).
+ * Uso de linter para seguir buenas prácticas (ESLINT).

@@ -108,3 +108,11 @@ h3{
 .copyrigth{
   font-size: smaller;
 }
+.tc-number:valid {
+  border: 2px solid;
+}
+.tc-number:invalid {
+  border: 2px solid black;
+}
+
+
