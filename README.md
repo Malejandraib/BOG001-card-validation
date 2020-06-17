@@ -34,13 +34,11 @@ El cliente son las tiendas de barrio que no han establecido pagos virtuales.
 En esta etapa se basa en la interfaz intuitiva y llamativa para el usuario, hicimos 1 prototipo en Figma, lo cual resulto complicado estructurarlo de la mejor manera, así decidimos probar InVision, tomamos un template y nos basamos en él para hacer nuestro prototipo, luego de pensar mejor la interfaz:
 
 <img src="src\Images\sketch-image.png" alt="prototipoFinal" />
-*Prototipo final deseado, en InVision:*
-
+*Prototipo final deseado, en InVision*
 <img src="src\Images\Prototipo1.png" alt="prototipo1" width="400"/>
-*Prototipo 1, en Figma:*
+*Prototipo 1, en Figma*
 
 *Prototipos en papel*
-
 Los prototipos en papel recibieron feedback de compañeras y coaches que compartieron ideas sobre el contexto que deberia brindar la página y que deberia ser intuitiva para los usuarios que la llegaran a usar. 
 También se discutio sobre los valores que debia recoger y solicitar para la validación de tarjeta. 
 Luego de tener clara la interfaz deseada, comenzamos a pensar el logo, definimos colores y tipografía a usar.
@@ -62,12 +60,12 @@ En el caso del nombre, basándonos en el enfoque de nuestra pagina web, pensamos
  * [x] Aplicar los principios de diseño visual
 ## HTML y CSS
  * [x] Uso correcto de HTML semántico
- * [] Uso de selectores de CSS
+ * Uso de selectores de CSS
  * [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 ## DOM
  * [x] Uso de selectores de nodos del DOM
  * [x] Manejo de eventos del DOM
- * [] Manipulación dinámica del DOM
+ * Manipulación dinámica del DOM
 ## Javascript
  * [x] Manipulación de strings
  * [x] Uso de condicionales
@@ -79,8 +77,8 @@ En el caso del nombre, basándonos en el enfoque de nuestra pagina web, pensamos
  * [x] Testeo de tus funciones
 ## Git y GitHub
  * [x] Comandos de git (add | commit | pull | status | push).
- * [] Manejo de repositorios de GitHub (clone | fork | gh-pages).
- * [] Buenas prácticas de desarrollo
- * [x] Organizar y dividir el código en módulos (Modularización).
+ * Manejo de repositorios de GitHub (clone | fork | gh-pages).
+ * Buenas prácticas de desarrollo
+ * [x]Organizar y dividir el código en módulos (Modularización).
  * [x] Uso de identificadores descriptivos (Nomenclatura | Semántica).
- * [] Uso de linter para seguir buenas prácticas (ESLINT).
+ * Uso de linter para seguir buenas prácticas (ESLINT).
