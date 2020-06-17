@@ -1,5 +1,6 @@
 import validator from './validator.js';
 
+
 // Seleccionar formulario y guardarlo en una variable
 var paymentForm = document.querySelector('#payment-form');
 
@@ -25,7 +26,18 @@ function onSubmit(event) {
  * el atributo value
  */
   var numberInput = document.querySelector('#tc-number').value;
+  var var1=document.getElementsByClassName('verif')
+  var var2=document.getElementsByClassName('num') //span de html
   
- alert("Here is the last four number of your card number "+ validator.maskify(numberInput));
+  var1.textContent='this card number seems to be', validator.isValid(numberInput);
+  
+  console.log(var1)
+  var2.textContent = validator.maskify(numberInput) ;
+  console.log(var2)
+
+
+
+  
+ //alert("Here is the last four number of your card number "+ validator.maskify(numberInput));
   alert("This card number seems to be "+ validator.isValid(numberInput));
 } 

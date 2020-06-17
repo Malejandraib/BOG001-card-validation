@@ -47,6 +47,7 @@ h2 {
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
 }
 .div2 {
+  position:relative;  
   width: 50%;
   display: flex;
   align-content: center;
@@ -115,4 +116,59 @@ h3{
   border: 2px solid black;
 }
 
+.tarjeta{
+  position: relative;
+ width: 356px;
+ height: 214px;
+ top:30px;
 
+ background: #15243C;
+ box-shadow: inset 0px 4px 4px rgba(147, 133, 133, 0.5);
+ border-radius: 20px;
+}
+.marca{
+  position: absolute;
+  right: 20px;
+  color: white;
+}
+.chip{
+  position: absolute;
+ width: 49px;
+ height: 41px;
+ left: 30px;
+ top:15px;
+ background: #BDB476;
+ border: 1px solid #000000;
+ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ border-radius: 8px;
+}
+.num{
+  position: absolute;
+  background-color:#15243C;
+  
+  width: 300px;
+  left: 60 px; 
+  top: 100px; 
+  z-index: 2;
+  color: white;
+}
+.holder{
+  color: white;
+  position: absolute; 
+  font-size: 12px;
+  left: 30px; 
+  top: 170px; 
+  z-index: 2;
+}
+.expiration{
+  color: white;
+  position: absolute;
+  font-size: 12px;
+  right: 50px; 
+  top: 170px; 
+}
+.verif{
+  display: none;
+  position: absolute;
+
+}
