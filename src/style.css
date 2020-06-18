@@ -109,12 +109,7 @@ h3{
 .copyrigth{
   font-size: smaller;
 }
-.tc-number:valid {
-  border: 2px solid;
-}
-.tc-number:invalid {
-  border: 2px solid black;
-}
+
 
 .tarjeta{
   position: relative;
@@ -128,8 +123,10 @@ h3{
 }
 .marca{
   position: absolute;
-  right: 20px;
+  top: 20px;
+  right: 30px;
   color: white;
+  font-style: oblique;
 }
 .chip{
   position: absolute;
@@ -170,5 +167,7 @@ h3{
 .verif{
   display: none;
   position: absolute;
+  border: rgb(170, 46, 170);
+  border-radius: 25px;
 
 }
