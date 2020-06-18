@@ -1,0 +1,170 @@
+html {
+  background-color: #fff;
+  font-size: 20px;
+}
+
+.container1 {
+  display: flex;
+  border-radius: 25px;
+}
+
+button {
+  font-weight: 700;
+  background-color: #f44e3f;
+  border-radius: 30px;
+  min-width: 100px;
+  border: 2px solid #d1b6b6;
+  font-size: 20px;
+  color: #fff;
+  height: 52px;
+  text-align: center;
+}
+h2 {
+  color: #0f7173;
+  margin-top: 5px;
+}
+
+* {
+  font-weight: 300;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+.cvv {
+  margin-bottom: 45px;
+}
+
+.logo {
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.container1 > div {
+  background-color: white;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+.div2 {
+  position:relative;  
+  width: 50%;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-flow: column wrap;
+}
+.div1 {
+  width: 50%;
+  flex-wrap: wrap;
+}
+
+.form-row {
+  display: flex;
+  justify-content: center;
+}
+
+.form-column {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  flex: 1;
+}
+
+.form-input {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+}
+
+.input-label {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  height: 2rem;
+  border: 1px solid grey;
+  border-radius: 0.5rem;
+}
+.store{
+  float: right;
+  margin-right: 75px;
+  font-size: medium;
+  color: #0f7173;
+  margin-top: 30px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  height: 120px;
+  min-width: 100px;
+}
+h3{
+  font-family: "Lato", sans-serif;
+  margin-top: 5px;
+  font-weight: 500;
+}
+.kiosco{
+  margin-top: 10px;
+}
+.copyrigth{
+  font-size: 10px;
+}
+
+
+.tarjeta{
+  position: relative;
+ width: 356px;
+ height: 214px;
+ top:30px;
+
+ background: #15243C;
+ box-shadow: inset 0px 4px 4px rgba(147, 133, 133, 0.5);
+ border-radius: 20px;
+}
+.marca{
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: white;
+  font-style: oblique;
+}
+.chip{
+  position: absolute;
+ width: 49px;
+ height: 41px;
+ left: 30px;
+ top:15px;
+ background: #BDB476;
+ border: 1px solid #000000;
+ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ border-radius: 8px;
+}
+.num{
+  position: absolute;
+  background-color:#15243C;
+  
+  width: 300px;
+  left: 60 px; 
+  top: 100px; 
+  z-index: 2;
+  color: white;
+}
+.holder{
+  color: white;
+  position: absolute; 
+  font-size: 12px;
+  left: 30px; 
+  top: 170px; 
+  z-index: 2;
+}
+.expiration{
+  color: white;
+  position: absolute;
+  font-size: 12px;
+  right: 50px; 
+  top: 170px; 
+}
+.verif{
+  display: none;
+  position: absolute;
+}
