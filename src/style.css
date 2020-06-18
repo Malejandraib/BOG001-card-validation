@@ -107,7 +107,7 @@ h3{
   margin-top: 10px;
 }
 .copyrigth{
-  font-size: smaller;
+  font-size: 10px;
 }
 
 
@@ -167,7 +167,4 @@ h3{
 .verif{
   display: none;
   position: absolute;
-  border: rgb(170, 46, 170);
-  border-radius: 25px;
-
 }
